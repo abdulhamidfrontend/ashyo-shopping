@@ -1,4 +1,3 @@
-import React from "react";
 import Artel from "@/assets/artel.png";
 import Samsung from "@/assets/samsung.png";
 import Nokia from "@/assets/nokia.png";

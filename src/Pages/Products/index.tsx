@@ -1,4 +1,3 @@
-import React from "react";
 import Top from "@/components/Top";
 import Navbar from "@/components/Navbar";
 import Categories from "@/components/Categories";
