@@ -1,6 +1,7 @@
 import Top from "@/components/Top";
 import Navbar from "@/components/Navbar";
 import Hero from "@/components/Hero";
+import Sponsor from "@/components/Sponsor";
 const Home = () => {
   return (
     <div className="w-full">
@@ -10,6 +11,7 @@ const Home = () => {
       </div>
       <div className="mt-5 mb-10">
         <Hero />
+        <Sponsor />
       </div>
     </div>
   );
